@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[miraj sanghvi]]></title>
   <link href="http://mirajsanghvi.github.io/atom.xml" rel="self"/>
   <link href="http://mirajsanghvi.github.io/"/>
-  <updated>2014-06-27T17:42:17-07:00</updated>
+  <updated>2014-06-27T17:48:08-07:00</updated>
   <id>http://mirajsanghvi.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[miraj sanghvi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://mirajsanghvi.github.io/blog/2014/06/27/hello-world/"/>
+    <updated>2014-06-27T17:45:58-07:00</updated>
+    <id>http://mirajsanghvi.github.io/blog/2014/06/27/hello-world</id>
+    <content type="html"><![CDATA[<p><strong>Hello, World!</strong>
+Welcome to my blog.  This is something I&rsquo;ve been talking about doing for some time now &ndash; and so it feels really good to finally get it off the ground.  (Thank you Octopress for making it so easy!)  On this blog I hope to have an outlet for thoughts and ramblings I have.  Hopefully people read it and find it helpful &ndash; but honestly I mainly want to use this as a way to get better at writing out my thoughts.  Enjoy.</p>
+
+<!-- more -->
+
+
+<p>As for the subject areas I plan to cover &ndash; it really will be all over the place:
+* news
+* technology
+* sports
+* san francisco
+* traveling
+* food/eating
+* coding
+* machine learning/statistics
+* advertising
+* anything else
+* the world</p>
+
+<p>As you can see, this is a rather expansive list&hellip;especially the last 2 &ndash; there really should be something for everyone.  So with that, let&rsquo;s get this started.</p>
+]]></content>
+  </entry>
   
 </feed>
