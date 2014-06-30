@@ -4,7 +4,7 @@
   <title><![CDATA[miraj sanghvi]]></title>
   <link href="http://mirajsanghvi.github.io/atom.xml" rel="self"/>
   <link href="http://mirajsanghvi.github.io/"/>
-  <updated>2014-06-29T18:13:43-07:00</updated>
+  <updated>2014-06-29T18:46:36-07:00</updated>
   <id>http://mirajsanghvi.github.io/</id>
   <author>
     <name><![CDATA[miraj sanghvi]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Economist and UFOs]]></title>
+    <link href="http://mirajsanghvi.github.io/blog/2014/06/29/economist-and-ufos/"/>
+    <updated>2014-06-29T18:15:32-07:00</updated>
+    <id>http://mirajsanghvi.github.io/blog/2014/06/29/economist-and-ufos</id>
+    <content type="html"><![CDATA[<p>I usually visit Economist.com a couple of times per week &ndash; generally a great place to catch up on world headlines.  Recently, I came across an article they posted about UFO sightings.  In it, they analyze data from the National UFO Reporting Centre about reported UFO sightings from the US &ndash; breaking it down by time of day.  Basically they allude that there is a peak in reported sightings during &ldquo;Drinking Hours&rdquo;.  While I agree most sightings (if not all) do require some added influence of some sort (ie. alcohol) &ndash; there are confounding variables that may also lead to increased sightings in the evenings.  A few additional reasons include &ndash;</p>
+
+<p>1: During Working Hours, most people are indoors and busy
+2: It is easier to spot things in the sky at night
+3: During Sleeping Hours &ndash; most people are asleep (indoors, preoccupied, unable to watch the sky)</p>
+
+<p>So it makes perfect sense that most reported sightings are during &ldquo;Drinking Hours&rdquo;.  That also happens to be the time that its best to notice things in the sky and also the time when most people are able to be outside and focus on things outside of working or sleeping.  It&rsquo;s always interesting to me when a trusted publication like the Economist makes blatant errors in reporting and statistics &ndash; but goes to show analysis errors are all around us.</p>
+
+<!-- more -->
+
+
+<p>See original article at <a href="http://www.economist.com/news/united-states/21605918-everything-you-need-know-about-ufos-0">economist.com</a></p>
+
+<p><img class="center" src="http://mirajsanghvi.github.io/images/blog_images/20140628_USM216_0.png" width="800" title="&#34;Economist UFO chart&#34;" alt="&#34;Economist UFO chart&#34;"></p>
+
+<p>Image taken from <a href="http://www.economist.com/news/united-states/21605918-everything-you-need-know-about-ufos-0">economist.com</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
