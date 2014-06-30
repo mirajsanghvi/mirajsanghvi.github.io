@@ -12,6 +12,7 @@ Welcome to my blog.  This is something I've been talking about doing for some ti
 <!-- more -->
 
 As for the subject areas I plan to cover - it really will be all over the place: 
+
 * news
 * technology
 * sports
