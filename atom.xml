@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[miraj sanghvi]]></title>
+<<<<<<< HEAD
   <link href="http://www.mirajsanghvi.com/atom.xml" rel="self"/>
   <link href="http://www.mirajsanghvi.com/"/>
   <updated>2016-08-23T14:17:39-07:00</updated>
   <id>http://www.mirajsanghvi.com/</id>
+=======
+  <link href="http://mirajsanghvi.github.io/atom.xml" rel="self"/>
+  <link href="http://mirajsanghvi.github.io/"/>
+  <updated>2015-03-29T19:34:50-07:00</updated>
+  <id>http://mirajsanghvi.github.io/</id>
+>>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
   <author>
     <name><![CDATA[miraj sanghvi]]></name>
     
@@ -14,6 +21,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Journalism]]></title>
     <link href="http://www.mirajsanghvi.com/blog/2016/08/23/journalism/"/>
     <updated>2016-08-23T12:30:33-07:00</updated>
@@ -34,6 +42,12 @@
     <link href="http://www.mirajsanghvi.com/blog/2015/03/28/tablets/"/>
     <updated>2015-03-28T19:22:28-07:00</updated>
     <id>http://www.mirajsanghvi.com/blog/2015/03/28/tablets</id>
+=======
+    <title type="html"><![CDATA[Tablets]]></title>
+    <link href="http://mirajsanghvi.github.io/blog/2015/03/28/tablets/"/>
+    <updated>2015-03-28T19:22:28-07:00</updated>
+    <id>http://mirajsanghvi.github.io/blog/2015/03/28/tablets</id>
+>>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <content type="html"><![CDATA[<p>Although this may seem like its been discussed a lot recently, I&rsquo;ve been thinking more and more about upgrading my iPad 2.  I recently got back from Japan, and it was great traveling without a computer &ndash; but I&rsquo;ve found that I generally only use my tablet when I travel.  And it&rsquo;s only if I don&rsquo;t have my computer with me.  The tablet was great back when my laptop&rsquo;s batteries didn&rsquo;t last as long.  But what&rsquo;s the use of them anymore?</p>
 
 <!-- more -->
@@ -51,9 +65,15 @@
   
   <entry>
     <title type="html"><![CDATA[Economist and UFOs]]></title>
+<<<<<<< HEAD
     <link href="http://www.mirajsanghvi.com/blog/2014/06/29/economist-and-ufos/"/>
     <updated>2014-06-29T18:15:32-07:00</updated>
     <id>http://www.mirajsanghvi.com/blog/2014/06/29/economist-and-ufos</id>
+=======
+    <link href="http://mirajsanghvi.github.io/blog/2014/06/29/economist-and-ufos/"/>
+    <updated>2014-06-29T18:15:32-07:00</updated>
+    <id>http://mirajsanghvi.github.io/blog/2014/06/29/economist-and-ufos</id>
+>>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <content type="html"><![CDATA[<p>I usually visit Economist.com a couple of times per week &ndash; generally a great place to catch up on world headlines.  Recently, I came across an article they posted about UFO sightings.  In it, they analyze data from the National UFO Reporting Centre about reported UFO sightings from the US &ndash; breaking it down by time of day.  Basically they allude that there is a peak in reported sightings during &ldquo;Drinking Hours&rdquo;.  While I agree most sightings (if not all) do require some added influence of some sort (i.e. alcohol) &ndash; there are confounding variables that may also lead to increased sightings in the evenings.  A few additional reasons include &ndash;</p>
 
 <ul>
@@ -70,7 +90,11 @@
 
 <p>See original article at <a href="http://www.economist.com/news/united-states/21605918-everything-you-need-know-about-ufos-0">economist.com</a></p>
 
+<<<<<<< HEAD
 <p><img class="center" src="http://www.mirajsanghvi.com/images/blog_images/20140628_USM216_0.png" width="800" title="&#34;Economist UFO chart&#34;" alt="&#34;Economist UFO chart&#34;"></p>
+=======
+<p><img class="center" src="http://mirajsanghvi.github.io/images/blog_images/20140628_USM216_0.png" width="800" title="&#34;Economist UFO chart&#34;" alt="&#34;Economist UFO chart&#34;"></p>
+>>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
 
 <p>Image taken from <a href="http://www.economist.com/news/united-states/21605918-everything-you-need-know-about-ufos-0">economist.com</a></p>
 ]]></content>
@@ -78,9 +102,15 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
+<<<<<<< HEAD
     <link href="http://www.mirajsanghvi.com/blog/2014/06/27/hello-world/"/>
     <updated>2014-06-27T17:45:58-07:00</updated>
     <id>http://www.mirajsanghvi.com/blog/2014/06/27/hello-world</id>
+=======
+    <link href="http://mirajsanghvi.github.io/blog/2014/06/27/hello-world/"/>
+    <updated>2014-06-27T17:45:58-07:00</updated>
+    <id>http://mirajsanghvi.github.io/blog/2014/06/27/hello-world</id>
+>>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <content type="html"><![CDATA[<p><strong>Hello, World!</strong>
 Welcome to my blog.  This is something I&rsquo;ve been talking about doing for some time now &ndash; and so it feels really good to finally get it off the ground.  (Thank you Octopress for making it so easy!)  On this blog I hope to have an outlet for thoughts and ramblings I have.  Hopefully people read it and find it helpful &ndash; but honestly I mainly want to use this as a way to get better at writing out my thoughts.  Enjoy.</p>
 
