@@ -1,8 +1,4 @@
 User-agent: *
 Disallow: 
 
-<<<<<<< HEAD
 Sitemap: http://www.mirajsanghvi.com/sitemap.xml 
-=======
-Sitemap: http://mirajsanghvi.github.io/sitemap.xml 
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3

@@ -3,7 +3,6 @@
   
   
   <url>
-<<<<<<< HEAD
     <loc>http://www.mirajsanghvi.com/blog/2016/08/23/journalism/</loc>
     <lastmod>2016-08-23T12:30:33-07:00</lastmod>
     <priority>0.8</priority>
@@ -11,66 +10,40 @@
   
   <url>
     <loc>http://www.mirajsanghvi.com/blog/2015/03/28/tablets/</loc>
-=======
-    <loc>http://mirajsanghvi.github.io/blog/2015/03/28/tablets/</loc>
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <lastmod>2015-03-28T19:22:28-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://www.mirajsanghvi.com/blog/2014/06/29/economist-and-ufos/</loc>
-=======
-    <loc>http://mirajsanghvi.github.io/blog/2014/06/29/economist-and-ufos/</loc>
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <lastmod>2014-06-29T18:15:32-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://www.mirajsanghvi.com/blog/2014/06/27/hello-world/</loc>
-=======
-    <loc>http://mirajsanghvi.github.io/blog/2014/06/27/hello-world/</loc>
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <lastmod>2014-06-27T17:45:58-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-<<<<<<< HEAD
     <loc>http://www.mirajsanghvi.com/</loc>
     <lastmod>2016-08-23T14:17:39-07:00</lastmod>
-=======
-    <loc>http://mirajsanghvi.github.io/</loc>
-    <lastmod>2015-03-29T19:34:50-07:00</lastmod>
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://www.mirajsanghvi.com/blog/archives/</loc>
     <lastmod>2016-08-23T14:17:39-07:00</lastmod>
-=======
-    <loc>http://mirajsanghvi.github.io/blog/archives/</loc>
-    <lastmod>2015-03-29T19:34:50-07:00</lastmod>
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://www.mirajsanghvi.com/posts/</loc>
     <lastmod>2016-08-23T14:17:39-07:00</lastmod>
-=======
-    <loc>http://mirajsanghvi.github.io/posts/</loc>
-    <lastmod>2015-03-29T19:34:50-07:00</lastmod>
->>>>>>> fa47f62b7da7b712e053aeb1661f683704055fc3
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
