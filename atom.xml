@@ -4,7 +4,7 @@
   <title><![CDATA[miraj sanghvi]]></title>
   <link href="http://www.mirajsanghvi.com/atom.xml" rel="self"/>
   <link href="http://www.mirajsanghvi.com/"/>
-  <updated>2016-08-23T14:22:39-07:00</updated>
+  <updated>2016-08-31T11:32:55-07:00</updated>
   <id>http://www.mirajsanghvi.com/</id>
   <author>
     <name><![CDATA[miraj sanghvi]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Imposter Syndrome]]></title>
+    <link href="http://www.mirajsanghvi.com/blog/2016/08/31/imposter-syndrome/"/>
+    <updated>2016-08-31T11:01:46-07:00</updated>
+    <id>http://www.mirajsanghvi.com/blog/2016/08/31/imposter-syndrome</id>
+    <content type="html"><![CDATA[<p>Imposter Syndrome is not a new concept. You can find countless blogs and articles talking about this occurrence in software engineering as well as most specialized fields. The feeling of not knowing everything is understandable&hellip;since there is always something new out there. A new programming language, a new way to build your code, a new editor to use, etc. And it does help to know that most everyone feels this multiple times a week, helps make it easier to deal with on a regular basis.</p>
+
+<!-- more -->
+
+
+<p>But I like to think about it in a different way &ndash; it&rsquo;s because there is always something new to do or learn that we&rsquo;re motivated by our field. It&rsquo;s because there&rsquo;s always a new package or algorithm to learn that I&rsquo;m excited to be a data scientist. This life-long drive that we get from our profession is part of the reason we chose this path. It will provide countless years of pushing our brain and our boundaries to strive to get better. This reminds me of a talk I attended a few years ago in Philadelphia by an Oncologist &ndash; she said she constantly has to deal with this fear of doing the wrong thing with her patients. She usually has to use new techniques that aren&rsquo;t fully understood or haven&rsquo;t been mastered by her &ndash; but it&rsquo;s because she&rsquo;s always working at the cutting edge of research this will always be the case. So that feeling, however unpleasant is necessary for her to be the best doctor she can be.</p>
+
+<p>I think that&rsquo;s very telling of this imposter syndrome and the feelings it stirs up in programmers &ndash; while it will always be there, it&rsquo;s with good reason that is occurs.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Journalism]]></title>
