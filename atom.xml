@@ -4,7 +4,7 @@
   <title><![CDATA[miraj sanghvi]]></title>
   <link href="http://www.mirajsanghvi.com/atom.xml" rel="self"/>
   <link href="http://www.mirajsanghvi.com/"/>
-  <updated>2018-01-06T10:26:46-08:00</updated>
+  <updated>2018-01-13T11:11:56-08:00</updated>
   <id>http://www.mirajsanghvi.com/</id>
   <author>
     <name><![CDATA[miraj sanghvi]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bold Prediction for 2018: Apple and Google PHR]]></title>
+    <link href="http://www.mirajsanghvi.com/blog/2018/01/13/bold-prediction-for-2018-apple-and-google-phr/"/>
+    <updated>2018-01-13T10:53:45-08:00</updated>
+    <id>http://www.mirajsanghvi.com/blog/2018/01/13/bold-prediction-for-2018-apple-and-google-phr</id>
+    <content type="html"><![CDATA[<p>With the new year, comes new predictions. In an effort to better crystallize my thoughts around the future of healthcare, I&rsquo;ve been thinking about how the internet giants will continue to expand their offerings in healthcare. This line of thinking has led me to believe that Google and Apple, in 2018, will launch patient health records (PHR) embedded into iOS and Android.</p>
+
+<!-- more -->
+
+
+<p>As the two giants continue to play on the fringes of healthcare, I believe a bold move by one of them will push the other to enter the space shortly thereafter. Google has famously tried this experiment in the past with Google Health, which was discontinued in 2011. The idea was great, the timing wasn&rsquo;t ideal &ndash; and the interface wasn&rsquo;t where it needed to be. People didn&rsquo;t have the same trust in the internet that we have now, and most notably, smart phones weren&rsquo;t as ubiquitous. Now that everyone has a smart phone, trusting their device with highly sensitive information (including bank account access, personal pictures, search history, etc.) &ndash; I think the market is ready for health records to be stored on phones. With FHIR and interoperability across health records increasingly becoming possible, I believe Google and Apple will realize the power in the data and understand their unusual position of being at the center of a consumer&rsquo;s life &ndash; and roll out a personal health record on the device. Samsung could be a wildcard in the race, as they continue to invest heavily in healthcare.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cryptocurrency - a Few Thoughts]]></title>
