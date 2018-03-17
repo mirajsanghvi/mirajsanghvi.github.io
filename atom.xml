@@ -4,7 +4,7 @@
   <title><![CDATA[miraj sanghvi]]></title>
   <link href="http://www.mirajsanghvi.com/atom.xml" rel="self"/>
   <link href="http://www.mirajsanghvi.com/"/>
-  <updated>2018-01-13T11:11:56-08:00</updated>
+  <updated>2018-03-17T09:57:56-07:00</updated>
   <id>http://www.mirajsanghvi.com/</id>
   <author>
     <name><![CDATA[miraj sanghvi]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Update - Apple PHR]]></title>
+    <link href="http://www.mirajsanghvi.com/blog/2018/03/17/update-apple-phr/"/>
+    <updated>2018-03-17T09:53:26-07:00</updated>
+    <id>http://www.mirajsanghvi.com/blog/2018/03/17/update-apple-phr</id>
+    <content type="html"><![CDATA[<p>Quick (delayed) update from the previous post &ndash; looks like I was spot on with the prediction&hellip;11 days after the original post, Apple launched a new health effort where it&rsquo;ll begin compiling health data through FHIR in the Health app. First step is compiling the records, next step will be transforming the inductry. Stay tuned!</p>
+
+<p><a href="https://techcrunch.com/2018/01/24/apple-wants-to-gather-all-your-medical-records-in-the-health-app/">Link to Techcrunch article for more info</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bold Prediction for 2018: Apple and Google PHR]]></title>
